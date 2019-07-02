@@ -37,14 +37,6 @@ Check out the corresponding medium blog post [Deep Learning for Iceberg detectio
 
 Download the data from [Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data).
 
-## Titanic: Machine Learning from Disaster
-
-![titanic](titanic.jpg)
-
-Download the data from [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data).
-
-
-
 
 ## Would you like to support me?
 
