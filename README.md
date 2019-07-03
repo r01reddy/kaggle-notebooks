@@ -1,5 +1,5 @@
 # Kaggle-tutorial
-Sample notebooks for Kaggle competitions
+Sample notebooks for Kaggle competitions.
 
 ## Data Science Bowl 2018
 
@@ -36,6 +36,10 @@ Check out the corresponding medium blog post [Deep Learning for Iceberg detectio
 ![amazon](amazon.jpg)
 
 Download the data from [Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data).
+
+## Citing
+
+If you find this repository useful, please consider citing it using a link to the repo :)
 
 
 ## Would you like to support me?
