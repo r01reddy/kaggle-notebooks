@@ -23,7 +23,7 @@ Check out the corresponding medium blog post [Deep Learning for Ship Detection a
 
 ## Statoil/C-CORE Iceberg Classifier Challenge
 
-![iceberg](statoil.jpg)
+![iceberg1](statoil.jpg)
 
 The main objective of this repo is to develop methods for detecting icebergs using satellite radar data and high space resolution images in the visible spectral range. The methods of satellite monitoring of dangerous ice formations, namely icebergs in the Arctic seas represents a threat to the safety of navigation and economic activity on the Arctic shelf. The developed method of iceberg detection is based on statistical criteria for finding gradient zones in the analysis of two-dimensional fields of satellite images. The approaches proposed to detect icebergs from satellite data allow improving the quality and efficiency of service for a wide number of users with ensuring the efficiency and safety of Arctic navigation and activities on the Arctic shelf.
 
@@ -33,7 +33,7 @@ Check out the corresponding medium blog post [Deep Learning for Iceberg detectio
 
 ## Planet: Understanding the Amazon from Space
 
-![amazon](amazon.jpg)
+![amazon1](amazon.jpg)
 
 Download the data from [Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data).
 
