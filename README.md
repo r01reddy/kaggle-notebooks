@@ -33,7 +33,7 @@ Check out the corresponding medium blog post [Deep Learning for Iceberg detectio
 
 ## Planet: Understanding the Amazon from Space
 
-![amazon1](amazon1.jpg)
+![amazon1](amazon1.png)
 
 Download the data from [Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data).
 
