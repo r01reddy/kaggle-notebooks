@@ -39,4 +39,13 @@ Download the data from [Planet: Understanding the Amazon from Space](https://www
 
 ## Citing
 
-If you find this repository useful, please consider citing it using a link to the repo :)
+```
+@misc{Abhinav:2019,
+  Author = {Abhinav Sagar},
+  Title = {Kaggle Tutorial},
+  Year = {2019},
+  Publisher = {GitHub},
+  Journal = {GitHub repository},
+  Howpublished = {\url{https://github.com/abhinavsagar/Kaggle-Tutorial.git}}
+}
+```
