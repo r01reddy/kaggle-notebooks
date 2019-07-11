@@ -40,8 +40,3 @@ Download the data from [Planet: Understanding the Amazon from Space](https://www
 ## Citing
 
 If you find this repository useful, please consider citing it using a link to the repo :)
-
-
-## Would you like to support me?
-
-<a href="https://www.buymeacoffee.com/abhinavsagar" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
