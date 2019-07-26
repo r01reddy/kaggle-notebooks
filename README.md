@@ -31,6 +31,12 @@ Download the data from [Statoil/C-CORE Iceberg Classifier Challenge](https://www
 
 Check out the corresponding medium blog post [Deep Learning for Iceberg detection in Satellite Images](https://medium.com/@abhinav.sagar/deep-learning-for-iceberg-detection-in-satellite-images-c667acf4bad0).
 
+## Chest X-Ray Images (Pneumonia)
+
+![pneumonia](chest.png)
+
+Download the data from [Chest X-Ray Images](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+
 ## Planet: Understanding the Amazon from Space
 
 ![amazon1](amazon1.png)
