@@ -37,6 +37,8 @@ Check out the corresponding medium blog post [Deep Learning for Iceberg detectio
 
 Download the data from [Chest X-Ray Images](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 
+Check out the corresponding medium blog post [Deep Learning for Detecting Pneumonia from X-ray Images](https://medium.com/@abhinav.sagar/deep-learning-for-detecting-pneumonia-from-x-ray-images-fc9a3d9fdba8).
+
 ## Planet: Understanding the Amazon from Space
 
 ![amazon1](amazon1.png)
