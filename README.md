@@ -1,57 +1,59 @@
 # Kaggle Solutions
 Sample notebooks for Kaggle competitions.
 
-## Data Science Bowl 2018
-
-![nucleus](n3.png)
-
-Automatic segmentation of microscopy images is an important task in medical image processing and analysis. Nucleus detection is an important example of this task. Imagine speeding up research for almost every disease, from lung cancer and heart disease to rare disorders. The 2018 Data Science Bowl offers our most ambitious mission yet: create an algorithm to automate nucleus detection. We’ve all seen people suffer from diseases like cancer, heart disease, chronic obstructive pulmonary disease, Alzheimer’s, and diabetes. Think how many lives would be transformed if cures came faster. By automating nucleus detection, you could help unlock cures faster from rare disorders to the common cold.
-
-Download the data from [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018/data).
+## 1. Data Science Bowl 2018
 
 Check out the corresponding medium blog post [Instance Segmentation of Nucleus Images](https://medium.com/@abhinav.sagar/nucleus-segmentation-using-u-net-eceb14a9ced4).
 
-## Airbus ship detection challenge
-
-![ship](airbus.png)
-
-Ship detection from remote sensing imagery is a crucial application for maritime security which includes among others traffic surveillance, protection against illegal fisheries, oil discharge control and sea pollution monitoring. This is typically done through the use of an Automated Identification System (AIS), which uses VHF radio frequencies to wirelessly broadcast the ships location, destination and identity to nearby receiver devices on other ships and land-based systems.
-
-Download the data from [Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection/data).
+## 2. Airbus ship detection challenge
 
 Check out the corresponding medium blog post [Deep Learning for Ship Detection and Segmentation](https://medium.com/@abhinav.sagar/deep-learning-for-ship-detection-and-segmentation-71d223aca649).
 
-## Statoil/C-CORE Iceberg Classifier Challenge
-
-![iceberg1](iceberg1.jpg)
-
-The main objective of this repo is to develop methods for detecting icebergs using satellite radar data and high space resolution images in the visible spectral range. The methods of satellite monitoring of dangerous ice formations, namely icebergs in the Arctic seas represents a threat to the safety of navigation and economic activity on the Arctic shelf. The developed method of iceberg detection is based on statistical criteria for finding gradient zones in the analysis of two-dimensional fields of satellite images. The approaches proposed to detect icebergs from satellite data allow improving the quality and efficiency of service for a wide number of users with ensuring the efficiency and safety of Arctic navigation and activities on the Arctic shelf.
-
-Download the data from [Statoil/C-CORE Iceberg Classifier Challenge](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/data).
+## 3. Statoil/C-CORE Iceberg Classifier Challenge
 
 Check out the corresponding medium blog post [Deep Learning for Iceberg detection in Satellite Images](https://medium.com/@abhinav.sagar/deep-learning-for-iceberg-detection-in-satellite-images-c667acf4bad0).
 
-## Chest X-Ray Images (Pneumonia)
-
-![pneumonia](chest.png)
-
-Download the data from [Chest X-Ray Images](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+## 4. Chest X-Ray Images (Pneumonia)
 
 Check out the corresponding medium blog post [Deep Learning for Detecting Pneumonia from X-ray Images](https://medium.com/@abhinav.sagar/deep-learning-for-detecting-pneumonia-from-x-ray-images-fc9a3d9fdba8).
 
-## Mall Customer Segmentation Data
-
-![customer](customer.png)
-
-Download the data from [Mall Customer Segmentation Data](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python).
+## 5. Mall Customer Segmentation Data
 
 Check out the corresponding medium blog post [Customer Segmentation Using K Means Clustering](https://medium.com/@abhinav.sagar/customer-segmentation-using-k-means-clustering-d33964f238c3).
 
-## Planet: Understanding the Amazon from Space
+## 6. Planet: Understanding the Amazon from Space
 
-![amazon1](amazon1.png)
 
-Download the data from [Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data).
+
+![nucleus](n3.png)
+
+
+
+
+![ship](airbus.png)
+
+
+
+
+![iceberg1](iceberg1.jpg)
+
+
+
+
+
+![pneumonia](chest.png)
+
+
+
+
+
+![customer](customer.png)
+
+
+
+
+
+
 
 ## Citing
 
