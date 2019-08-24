@@ -45,6 +45,8 @@ Check out the corresponding medium blog post [Deep Learning for Detecting Pneumo
 
 Download the data from [Mall Customer Segmentation Data](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python).
 
+Check out the corresponding medium blog post [Customer Segmentation Using K Means Clustering](https://medium.com/@abhinav.sagar/customer-segmentation-using-k-means-clustering-d33964f238c3).
+
 ## Planet: Understanding the Amazon from Space
 
 ![amazon1](amazon1.png)
