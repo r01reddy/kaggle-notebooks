@@ -23,38 +23,6 @@ Check out the corresponding medium blog post [Customer Segmentation Using K Mean
 
 ## 6. Planet: Understanding the Amazon from Space
 
-
-
-![nucleus](n3.png)
-
-
-
-
-![ship](airbus.png)
-
-
-
-
-![iceberg1](iceberg1.jpg)
-
-
-
-
-
-![pneumonia](chest.png)
-
-
-
-
-
-![customer](customer.png)
-
-
-
-
-
-
-
 ## Citing
 
 ```
