@@ -1,4 +1,4 @@
-# Kaggle Winning Solutions
+# Kaggle Solutions
 Sample notebooks for Kaggle competitions.
 
 ## Data Science Bowl 2018
