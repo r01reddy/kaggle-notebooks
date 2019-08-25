@@ -3,7 +3,7 @@ Sample notebooks for Kaggle competitions.
 
 ### 1. Data Science Bowl 2018
 
-Check out the corresponding medium blog post [Instance Segmentation of Nucleus Images](https://medium.com/@abhinav.sagar/nucleus-segmentation-using-u-net-eceb14a9ced4).
+Check out the corresponding medium blog post [Nucleus Segmentation using U-Net](https://medium.com/@abhinav.sagar/nucleus-segmentation-using-u-net-eceb14a9ced4).
 
 ### 2. Airbus ship detection challenge
 
