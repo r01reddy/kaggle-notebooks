@@ -21,7 +21,9 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/dee
 
 Check out the corresponding medium blog post [https://becominghuman.ai/customer-segmentation-using-k-means-clustering-d33964f238c3](https://becominghuman.ai/customer-segmentation-using-k-means-clustering-d33964f238c3).
 
-### 6. Planet: Understanding the Amazon from Space
+### 6. Graduate Admission
+
+### 7. Planet: Understanding the Amazon from Space
 
 ## Citing
 
