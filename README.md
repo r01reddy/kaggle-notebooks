@@ -23,6 +23,8 @@ Check out the corresponding medium blog post [https://becominghuman.ai/customer-
 
 ### 6. Graduate Admission
 
+Check out the corresponding medium blog post [https://towardsdatascience.com/graduate-admission-prediction-using-machine-learning-8e09ba1af359](https://towardsdatascience.com/graduate-admission-prediction-using-machine-learning-8e09ba1af359).
+
 ### 7. Planet: Understanding the Amazon from Space
 
 ## Citing
