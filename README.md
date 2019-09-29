@@ -11,7 +11,7 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/dee
 
 ### 3. Statoil/C-CORE Iceberg Classifier Challenge
 
-Check out the corresponding medium blog post [https://medium.com/analytics-vidhya/deep-learning-for-iceberg-detection-in-satellite-images-c667acf4bad0](https://medium.com/analytics-vidhya/deep-learning-for-iceberg-detection-in-satellite-images-c667acf4bad0).
+Check out the corresponding medium blog post [https://towardsdatascience.com/deep-learning-for-iceberg-detection-in-satellite-images-c667acf4bad0](https://towardsdatascience.com/deep-learning-for-iceberg-detection-in-satellite-images-c667acf4bad0).
 
 ### 4. Chest X-Ray Images (Pneumonia)
 
@@ -19,7 +19,7 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/dee
 
 ### 5. Mall Customer Segmentation Data
 
-Check out the corresponding medium blog post [https://becominghuman.ai/customer-segmentation-using-k-means-clustering-d33964f238c3](https://becominghuman.ai/customer-segmentation-using-k-means-clustering-d33964f238c3).
+Check out the corresponding medium blog post [https://towardsdatascience.com/customer-segmentation-using-k-means-clustering-d33964f238c3](https://towardsdatascience.com/customer-segmentation-using-k-means-clustering-d33964f238c3).
 
 ### 6. Graduate Admission
 
