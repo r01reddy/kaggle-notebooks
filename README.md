@@ -1,6 +1,8 @@
 # Kaggle Solutions
 Sample notebooks for Kaggle competitions.
 
+## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
+
 ### 1. Data Science Bowl 2018
 
 Check out the corresponding medium blog post [https://towardsdatascience.com/nucleus-segmentation-using-u-net-eceb14a9ced4](https://towardsdatascience.com/nucleus-segmentation-using-u-net-eceb14a9ced4).
