@@ -29,6 +29,17 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/gra
 
 ### 7. Planet: Understanding the Amazon from Space
 
+## References
+
+https://arxiv.org/abs/1901.10170
+https://github.com/VolkerH/unet-nuclei
+https://arxiv.org/pdf/1806.04331
+http://elib.dlr.de/82654/1/isprsarchives-XL-1-W1-233-2013.pdf
+https://www.sciencedirect.com/science/article/pii/S0034425716304527
+http://earth.esa.int/seasar2008/participants/36/pres_36_alexandrov.pdf
+https://arxiv.org/pdf/1711.05225
+https://www.hindawi.com/journals/jhe/2019/4180949/
+
 ## Citing
 
 ```
