@@ -1,8 +1,6 @@
 # Kaggle Solutions
 Sample notebooks for Kaggle competitions.
 
-## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
-
 ### 1. Data Science Bowl 2018
 
 Check out the corresponding medium blog post [https://towardsdatascience.com/nucleus-segmentation-using-u-net-eceb14a9ced4](https://towardsdatascience.com/nucleus-segmentation-using-u-net-eceb14a9ced4).
@@ -59,13 +57,3 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/gra
   Howpublished = {\url{https://github.com/abhinavsagar/Kaggle-Tutorial.git}}
 }
 ```
-
-## Contacts
-
-If you want to keep updated with my latest articles and projects follow me on Medium. These are some of my contacts details:
-
-1. [Personal Website](https://abhinavsagar.github.io/)
-2. [Linkedin](https://in.linkedin.com/in/abhinavsagar4)
-3. [Medium](https://medium.com/@abhinav.sagar)
-4. [GitHub](https://github.com/abhinavsagar)
-5. [Kaggle](https://www.kaggle.com/abhinavsagar)
