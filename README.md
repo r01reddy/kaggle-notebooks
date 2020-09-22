@@ -45,14 +45,14 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/gra
 
 ## Citing
 
+If you find this code useful in your research, please consider citing the repository:
+
 ```
-@misc{Abhinav:2019,
+@misc{sagarkaggle,
   Author = {Abhinav Sagar},
-  Title = {Kaggle Tutorial},
+  Title = {Kaggle Solutions},
   Year = {2019},
-  Publisher = {GitHub},
-  Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/abhinavsagar/Kaggle-Tutorial.git}}
+  Journal = {Github},
 }
 ```
 
