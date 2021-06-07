@@ -1,6 +1,19 @@
 # Kaggle Solutions
 Sample notebooks for Kaggle competitions.
 
+## Citing
+
+If you find this code useful in your research, please consider citing the repository:
+
+```
+@misc{sagarkaggle,
+  Author = {Abhinav Sagar},
+  Title = {Kaggle Solutions},
+  Year = {2019},
+  Journal = {Github},
+}
+```
+
 ### 1. Data Science Bowl 2018
 
 Check out the corresponding medium blog post [https://towardsdatascience.com/nucleus-segmentation-using-u-net-eceb14a9ced4](https://towardsdatascience.com/nucleus-segmentation-using-u-net-eceb14a9ced4).
@@ -42,19 +55,6 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/gra
 7. https://arxiv.org/pdf/1711.05225
 
 8. https://www.hindawi.com/journals/jhe/2019/4180949/
-
-## Citing
-
-If you find this code useful in your research, please consider citing the repository:
-
-```
-@misc{sagarkaggle,
-  Author = {Abhinav Sagar},
-  Title = {Kaggle Solutions},
-  Year = {2019},
-  Journal = {Github},
-}
-```
 
 ## License
 
